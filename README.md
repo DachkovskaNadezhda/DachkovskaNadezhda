@@ -1,4 +1,15 @@
-## Hi there, I'm Nadezhda 👋
+<h1 align="center">Hi there, I'm Nadezhda 👋</h1>
+
+### I'm a Frontend Developer
+- I love programming
+- I am learning new languages
+
+### Languages and Tools
+- JavaScript
+- VisualStudioCode
+
+### Follow me
+- [Vk](https://vk.com/id347745942)
 
 <!--
 **DachkovskaNadezhda/DachkovskaNadezhda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
