@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nadezhda 👋</h1>
 
 ### I'm a Frontend Developer
-- I love programming
+- [](<i class="fa-solid fa-laptop-code">)</i> I love programming
 - I am learning new languages
 
 ### Languages and Tools
@@ -10,7 +10,7 @@
 
 ### Follow me
 - [Vk](https://vk.com/id347745942)
-
+- [Stepik](https://stepik.org/users/748949360/profile?preview=true)
 <!--
 **DachkovskaNadezhda/DachkovskaNadezhda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
